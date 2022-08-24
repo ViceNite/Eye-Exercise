@@ -39,8 +39,8 @@
 
 ## :dart: About ##
 
-An eye that follows the cursor on your screen 
-[demo avilable here:https://vicenite.github.io/Eye-Exercise/]
+An eye that follows the cursor on your screen.
+Demo avilable here: https://vicenite.github.io/Eye-Exercise/
 
 ## :sparkles: Features ##
 
