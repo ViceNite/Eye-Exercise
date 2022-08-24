@@ -24,13 +24,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ViceNite/eye-exercise?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Eye Exercise 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,12 +39,18 @@
 
 ## :dart: About ##
 
-Un ojo que mira a donde se apunte el cursor del Mouse 
-
+An eye that follows the cursor on your screen 
+[demo avilable here:https://vicenite.github.io/Eye-Exercise/]
 
 ## :sparkles: Features ##
 
-Se encuentra un ojo en la mitad de la pantalla, el cual va a seguir el puntero del mouse de acuerdo a la posicion relativa del puntero en la pantalla. 
+:heavy_check_mark: The eye will automatically follow your mouse relative to its position on the screen  
+
+## :sparkles: Roadmap of future improvements ##
+
+:heavy_check_mark: Add a second eye to simulate a face
+:heavy_check_mark: Have a feature that allows the user to change eye color
+:heavy_check_mark: add a blinking animation after a predetermined ammount of time
 
 
 ## :rocket: Technologies ##
