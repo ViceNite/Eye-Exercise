@@ -28,7 +28,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-Roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -46,22 +46,13 @@ Demo avilable here: https://vicenite.github.io/Eye-Exercise/
 
 :heavy_check_mark: The eye will automatically follow your mouse relative to its position on the screen  
 
-## :sparkles: Roadmap of future improvements ##
+## :sparkles: Roadmap ##
 
 :heavy_check_mark: Add a second eye to simulate a face
 :heavy_check_mark: Have a feature that allows the user to change eye color
 :heavy_check_mark: add a blinking animation after a predetermined ammount of time
 
 
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
