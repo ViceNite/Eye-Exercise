@@ -68,10 +68,10 @@ $ git clone https://github.com/ViceNite/eye-exercise
 $ cd eye-exercise
 
 # Install dependencies
-$ yarn
+$ No dependencies required
 
 # Run the project
-$ yarn start
+$ Open the project with the live extension server
 
 # The server will initialize in the <http://localhost:3000>
 ```
